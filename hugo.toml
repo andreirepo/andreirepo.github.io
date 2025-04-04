@@ -44,11 +44,11 @@ home = "Home"
 # Social icons
 [[params.social]]
 name = "linkedin"
-url = "www.linkedin.com/in/andreirepo/"
+url = "https://www.linkedin.com/in/andreirepo/"
 
 [[params.social]]
 name = "github"
-url = "https://github.com/andreirepo"
+url = "https://github.com/"
 
 # Main menu pages
 [[params.menu]]
