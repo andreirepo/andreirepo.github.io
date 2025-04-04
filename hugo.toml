@@ -23,8 +23,7 @@ hideHeader = false
 # Intro on main page, content is markdown
 homeIntroTitle = 'Hi!'
 homeIntroContent = """
-I am an Italian Software Engineer with a strong foundation in computer science and a passion for solving complex problems.
-I am interested in a range of topics, including algorithms, distributed systems, databases, and information retrieval.
+I'm a Senior QA Engineer with 8+ years of experience breaking, fixing, and improving things — preferably with automation. Currently exploring the intersection of DevOps, Cloud, and Quality Engineering to build more resilient, scalable systems.
 """
 
 # Collection to display on home
@@ -45,15 +44,11 @@ home = "Home"
 # Social icons
 [[params.social]]
 name = "linkedin"
-url = "https://www.linkedin.com/in/user/"
-
-[[params.social]]
-name = "medium"
-url = "https://medium.com/@user"
+url = "www.linkedin.com/in/andreirepo/"
 
 [[params.social]]
 name = "github"
-url = "https://github.com/user"
+url = "https://github.com/andreirepo"
 
 # Main menu pages
 [[params.menu]]
